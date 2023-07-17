@@ -22,6 +22,8 @@ We use the [Data Set for Multi-Aspect Review Assignment Evaluation](https://tima
 
 Run relevant .jl files to reproduce the results in the paper. 
 
+for example,
+
 loop-best-u6-latest.jl -> Aligned case with U=6.
 
 loop-random-uni-u8-latest.jl -> Random case with U=8 and using the uniform distribution for the random matrix.
