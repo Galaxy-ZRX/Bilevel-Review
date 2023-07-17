@@ -18,5 +18,12 @@ Packages need to be [imported into the Julia environment](https://doc.cocalc.com
 
 We use the [Data Set for Multi-Aspect Review Assignment Evaluation](https://timan.cs.illinois.edu/ir/data/ReviewData.zip) from the University of Illinois Urbana-Champaign ([UIUC](https://illinois.edu/index.html)). 
 
+## Get started
+
+Run relevant .jl files to reproduce the results in the paper. 
+
+loop-best-u6-latest.jl -> Aligned case with U=6.
+
+loop-random-uni-u8-latest.jl -> Random case with U=8 and using the uniform distribution for the random matrix.
 
 
